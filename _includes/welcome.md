@@ -1,44 +1,19 @@
 # Welcome
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original PHP : The Right Way site. The original contributors is given all the credits due to them.
 
-_There is no canonical way to use PHP_. This website aims to introduce new PHP
-developers to some topics which they may not discover until it is too late, and aims
-to give seasoned pros some fresh ideas on those topics they've been doing for years
-without ever reconsidering. This website will also not tell you which tools to use, but
-instead offer suggestions for multiple options, when possible explaining the differences
-in approach and use-case.
+This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. Laravel : The Right Way aims to put together all the resources and best practices in using the Laravel Framework.
 
-This is a living document and will continue to be updated with more helpful information
-and examples as they become available.
+Laravel Framework is not strict on how and where you define your classes as long as it could be loaded by Composer. This is a double-sided blade -- it's beneficial for advanced developers, but coud be confusing for beginners and for those who is trying to reverse engineer an existing codebase. The ability to place anything, anywhere is good. But there are times some methods is way better than the others, and that is what we are after. This site tried to collect all the best practices, tools and methodologies, so that it could serve a guide for beginners and existing developers alike.
+
+This is a living document and will continue to be updated with more helpful information and examples as they become available.
 
 ## Translations
 
-_PHP: The Right Way_ is translated into many different languages:
+Laravel: The Right Way is currently only available in English language. Please contribute to the project so that it could support multiple languages.
 
-* [English](http://www.phptherightway.com)
-* [Bulgarian](http://bg.phptherightway.com/)
-* [Chinese (Simplified)](http://wulijun.github.com/php-the-right-way)
-* [Chinese (Traditional)](http://laravel-taiwan.github.io/php-the-right-way)
-* [French](http://eilgin.github.io/php-the-right-way/)
-* [German](http://rwetzlmayr.github.io/php-the-right-way/)
-* [Indonesian](http://id.phptherightway.com/)
-* [Italian](http://it.phptherightway.com/)
-* [Japanese](http://ja.phptherightway.com)
-* [Korean](http://wafe.github.io/php-the-right-way/)
-* [Polish](http://pl.phptherightway.com/)
-* [Portuguese](http://br.phptherightway.com/)
-* [Romanian](https://bgui.github.io/php-the-right-way/)
-* [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Slovenian](http://sl.phptherightway.com)
-* [Spanish](http://phpdevenezuela.github.io/php-the-right-way/)
-* [Thai](https://apzentral.github.io/php-the-right-way/)
-* [Turkish](http://hkulekci.github.io/php-the-right-way/)
-* [Ukrainian](http://iflista.github.com/php-the-right-way/)
+* [English](http://www.laraveltherightway.com)
+
 
 ## How to Contribute
 
@@ -51,5 +26,5 @@ know where to find good information!
 
 [See Banner Images][2]
 
-[1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
+[1]: https://github.com/laraveltherightway/laraveltherightway.github.io
 [2]: /banners.html
