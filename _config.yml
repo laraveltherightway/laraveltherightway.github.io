@@ -1,0 +1,22 @@
+baseurl: /
+highlighter: pygments
+markdown: kramdown
+permalink: date
+maruku:
+    use_tex:    false
+    use_divs:   false
+    png_engine: blahtex
+    png_dir:    images/latex
+    png_url:    /images/latex
+
+gems:
+    - jekyll-sitemap
+
+defaults:
+    -
+      scope:
+          path: ""
+      values:
+          sitemap: false
+
+exclude: ['CNAME', 'CONTRIBUTING.md', 'LICENSE', 'README.md', 'pages/example.md']
