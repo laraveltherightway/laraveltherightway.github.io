@@ -1,9 +1,9 @@
 ---
 isChild: true
-anchor:  mac_setup
+anchor:  homestead
 ---
 
-## Mac Setup {#mac_setup_title}
+## Mac Setup {#homestead_title}
 
 OS X comes prepackaged with PHP but it is normally a little behind the latest stable. Mountain Lion has 5.3.10,
 Mavericks has 5.4.17 and Yosemite has 5.5.9, but with PHP 5.6 out that is often not good enough.
