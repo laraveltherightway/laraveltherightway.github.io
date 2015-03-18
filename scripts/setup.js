@@ -3,14 +3,14 @@
     var $contributors = $('#contributors');
     if ( $contributors.length ) {
         var fail = function () {
-            $contributors.html('<p>This project would not be possible without the help of <a href="https://github.com/codeguy/php-the-right-way/graphs/contributors">our amazing contributors</a> on GitHub.</p>');
+            $contributors.html('<p>This project would not be possible without the help of <a href="https://github.com/laraveltherightway/laraveltherightway.github.io/graphs/contributors">our amazing contributors</a> on GitHub.</p>');
         };
         $.ajax({
             cache: false,
             dataType: 'jsonp',
             timeout: 3000,
             type: 'GET',
-            url: 'https://api.github.com/repos/codeguy/php-the-right-way/contributors?per_page=100'
+            url: 'https://api.github.com/repos/laraveltherightway/laraveltherightway/contributors?per_page=100'
         }).done(function (data) {
             if ( data.data && data.data.length ) {
                 var $ul = $('<ul></ul>'), dataLength = data.data.length;
