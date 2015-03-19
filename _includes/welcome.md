@@ -1,6 +1,6 @@
 # Welcome
 
-Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original PHP : The Right Way site. The original contributors is given all the credits due to them.
+_Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original PHP : The Right Way site. The original contributors is given all the credits due to them._
 
 This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. Laravel : The Right Way aims to put together all the resources and best practices in using the Laravel Framework.
 

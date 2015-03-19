@@ -5,4 +5,5 @@ anchor:  mentoring
 
 ## Mentoring {#mentoring_title}
 
-* [phpmentoring.org](http://phpmentoring.org/) - Formal, peer to peer mentoring in the PHP community.
+* [Laravel Forum](http://laravel.io/forum) - official forum and IRC channels for Laravel.
+* [Laravel Recipes](http://laravel-recipes.com/) - useful tips and tutorials.

@@ -5,13 +5,14 @@ anchor:  design_patterns
 
 ## Design Patterns {#design_patterns_title}
 
-When you are building your application it is helpful to use common patterns in your code and common patterns for the
-overall structure of your project. Using common patterns is helpful because it makes it much easier to manage your code
-and lets other developers quickly understand how everything fits together.
+It is easy to get the your Laravel application to get messed up if you don't have any sort of pattern to follow. The following design patterns are recommended for those who are building an application with Laravel or want to refactor their existing projects:
 
-If you use a framework then most of the higher level code and project structure will be based on that framework, so a
-lot of the pattern decisions are made for you. But it is still up to you to pick out the best patterns to follow in the
-code you build on top of the framework. If, on the other hand, you are not using a framework to build your application
-then you have to find the patterns that best suit the type and size of application that you're building.
+* [Domain Driven Design][ddd-url]
+* [Don't call Eloquent models directly, Use Repositories!][repo-url]
+* [Inversion Of Control Container and Dependency Injection][ioc-url]
+* [SOLID Principle][solid-url]
 
-* Continue reading on [Design Patterns](/pages/Design-Patterns.html)
+[ddd-url]:http://caughtexceptions.blogspot.co.nz/2014/02/domain-driven-design-in-laravel-4-part-1.html
+[repo-url]:http://vegibit.com/laravel-repository-pattern/
+[ioc-url]:http://www.sitepoint.com/dependency-injection-laravels-ioc/
+[solid-url]:http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
