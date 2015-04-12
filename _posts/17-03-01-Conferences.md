@@ -5,4 +5,5 @@ anchor:  conferences
 
 ## Conferences {#conferences_title}
 
-open for suggestions
+[us-url]:http://laracon.us/
+[eu-url]:http://laracon.eu/
