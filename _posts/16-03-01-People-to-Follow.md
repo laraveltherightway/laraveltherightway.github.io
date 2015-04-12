@@ -12,3 +12,5 @@ anchor:  people_to_follow
 * [Chris Fidao](https://twitter.com/fideloper)
 * [Phil Sturgeon](https://twitter.com/philsturgeon)
 * [Jens Segers](https://twitter.com/jenssegers)
+* [Ben Corlett](https://twitter.com/ben_corlett)
+* [Matt Stauffer](https://twitter.com/stauffermatt)
