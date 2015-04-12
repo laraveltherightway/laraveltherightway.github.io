@@ -29,7 +29,7 @@ respect the following restrictions:
 <a name="pull-requests"></a>
 ## Pull Requests
 
-Pull requests are a great way to add new content to PHP The Right Way, as well 
+Pull requests are a great way to add new content to Laravel The Right Way, as well 
 as updating any browser issues or other style changes. Pretty much any sort of 
 change is accepted if seen as constructive.
 
