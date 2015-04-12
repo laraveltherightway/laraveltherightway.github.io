@@ -14,7 +14,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/codeguy/php-the-right-way/issues) is
+The [issue tracker](https://github.com/laraveltherightway/laraveltherightway.github.io/issues) is
 the preferred channel for changes: spelling mistakes, wording changes, new 
 content and generally [submitting pull requests](#pull-requests), but please 
 respect the following restrictions:
@@ -41,18 +41,18 @@ included in the project:
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/<your-username>/php-the-right-way.git
+   git clone https://github.com/<your-username>/laraveltherightway.github.io.git
    # Navigate to the newly cloned directory
-   cd php-the-right-way
+   cd laraveltherightway.github.io
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/codeguy/php-the-right-way.git
+   git remote add upstream https://github.com/laraveltherightway/laraveltherightway.github.io
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:
 
    ```bash
-   git checkout gh-pages
-   git pull upstream gh-pages
+   git checkout master
+   git pull upstream master
    ```
 
 3. Create a new topic branch (off the main project development branch) to
@@ -73,7 +73,7 @@ included in the project:
 6. Locally merge (or rebase) the upstream development branch into your topic branch:
 
    ```bash
-   git pull [--rebase] upstream gh-pages
+   git pull [--rebase] upstream master
    ```
 
 7. Push your topic branch up to your fork:
@@ -95,10 +95,8 @@ owners to license your work under the the terms of the [Creative Commons Attribu
 The same content and license will be used for all PHP The Right Way publications,
 including - but not limited to:
 
-* [phptherightway.com](http://phptherightway.com)
-* Translations of phptherightway.com
-* [LeanPub: PHP The Right Way](https://leanpub.com/phptherightway/)
-* Translations of "LeanPub: PHP The Right Way"
+* [laraveltherightway.com](http://laraveltherightway.com)
+* Translations of laraveltherightway.com
 
 All content is completely free now, and always will be.
 
