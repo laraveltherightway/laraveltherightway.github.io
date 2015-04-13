@@ -4,4 +4,9 @@ anchor: community
 
 # Community {#community_title}
 
-open for suggestions
+- [Twitter (@laravelphp)](https://twitter.com/laravelphp)
+- [Slack (#laravel)](http://larachat.co/)
+- [Reddit (/r/laravel)](https://reddit.com/r/laravel)
+- [News](https://laravel-news.com/)
+- [Laravel.io Forums](http://laravel.io/forum)
+- [Laracasts Forums](https://laracasts.com/discuss)
