@@ -1,6 +1,6 @@
 # Welcome
 
-_Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original PHP : The Right Way site. The original contributors is given all the credits due to them._
+_Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original [PHP : The Right Way](http://www.phptherightway.com/) site. The [original contributors](https://github.com/codeguy/php-the-right-way/graphs/contributors) is given all the credits due to them._
 
 This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. Laravel : The Right Way aims to put together all the resources and best practices in using the Laravel Framework.
 
@@ -21,7 +21,7 @@ Help make this website the best resource for new PHP programmers! [Contribute on
 
 ## Spread the Word!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
+_Laravel: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
 know where to find good information!
 
 [See Banner Images][2]
