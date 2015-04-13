@@ -10,7 +10,7 @@
             dataType: 'jsonp',
             timeout: 3000,
             type: 'GET',
-            url: 'https://api.github.com/repos/laraveltherightway/laraveltherightway/contributors?per_page=100'
+            url: 'https://api.github.com/repos/laraveltherightway/laraveltherightway.github.io/contributors?per_page=100'
         }).done(function (data) {
             if ( data.data && data.data.length ) {
                 var $ul = $('<ul></ul>'), dataLength = data.data.length;
