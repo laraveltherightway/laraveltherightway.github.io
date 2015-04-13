@@ -12,7 +12,7 @@ You might notice a server.php in the Laravel codes. The purpose of this is for y
 > php -S localhost:8000 server.php
 {% endhighlight %}
 
-or simply
+or simply (note that the following **only** works for Laravel `v4.x`):
 
 {% highlight console %}
 > php artisan serve
