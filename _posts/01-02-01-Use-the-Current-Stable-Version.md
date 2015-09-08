@@ -4,7 +4,7 @@ isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Use the Current Stable Version (5.0) {#use_the_current_stable_version_title}
+## Use the Current Stable Version (5.1) {#use_the_current_stable_version_title}
 
 If you are getting started with Laravel, start with the current stable release of [Laravel 5.0][laravel-release]. Laravel has added 
 powerful [new features](#framework_highlights) over the last few years. Though the incremental version number difference 
