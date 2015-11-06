@@ -5,4 +5,4 @@ description: "production-grade server network design for your Laravel applicatio
 sitemap: true
 ---
 
-this is the server arthitecture page
+<img src="../images/Laravel-Servers-Architecture.jpg" alt="Server Network Design" style="width: 700px;"/>
