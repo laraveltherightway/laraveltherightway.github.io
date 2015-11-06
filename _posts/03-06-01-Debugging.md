@@ -1,5 +1,5 @@
 ---
-title:   Debuging
+title:   Debugging
 isChild: true
 anchor:  debugging
 ---

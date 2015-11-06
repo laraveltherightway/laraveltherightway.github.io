@@ -56,7 +56,7 @@ There's been a lot of discussion lately about how the PHP community lacks suffic
 
 ## Who
 
-My name is [Darwin Biler](http://twitter.com/buonzz). 
+My name is [Darwin Biler](http://twitter.com/buonzz). I'm an open-source enthusiast and aims to provide a help in developers to use Laravel effectively in their applications.
 
 ### Collaborators
 
