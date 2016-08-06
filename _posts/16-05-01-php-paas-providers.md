@@ -9,3 +9,4 @@ anchor:  php_paas_providers
 * [Fortrabbit](http://www.fortrabbit.com/)
 * [PagodaBox](https://pagodabox.io/)
 * [Heroku](https://www.heroku.com/)
+* [Cloudways](https://www.cloudways.com/)
