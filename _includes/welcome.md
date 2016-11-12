@@ -10,10 +10,11 @@ This is a living document and will continue to be updated with more helpful info
 
 ## Translations
 
-Laravel: The Right Way is currently only available in English language. Please contribute to the project so that it could support multiple languages.
+Laravel: The Best Practices is currently available in the following languages. Please contribute to the project so that it could support multiple languages.
 
 * [English](http://www.laravelbestpractices.com)
-
+* [Russian](http://vanadium23.github.io/laraveltherightway.github.io/)
+* [Chinese](http://bluegeek.github.io/laraveltherightway/)
 
 ## How to Contribute
 
