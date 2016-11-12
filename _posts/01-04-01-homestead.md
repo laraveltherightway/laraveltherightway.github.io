@@ -10,4 +10,4 @@ You can use Homestead to start developing with Laravel without the hassle of set
 
 The instructions and usage of homestead can be found in the [Official Documentation][homestead-docs].
 
-[homestead-docs]: http://laravel.com/docs/5.0/homestead
+[homestead-docs]: http://laravel.com/docs/5.3/homestead

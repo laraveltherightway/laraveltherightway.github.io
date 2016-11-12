@@ -12,7 +12,7 @@ This is a living document and will continue to be updated with more helpful info
 
 Laravel: The Right Way is currently only available in English language. Please contribute to the project so that it could support multiple languages.
 
-* [English](http://www.laraveltherightway.com)
+* [English](http://www.laravelbestpractices.com)
 
 
 ## How to Contribute
@@ -21,10 +21,15 @@ Help make this website the best resource for new PHP programmers! [Contribute on
 
 ## Spread the Word!
 
-_Laravel: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
+_Laravel Best Practices_ has web banner images you can use on your website. Show your support, and let new PHP developers
 know where to find good information!
 
 [See Banner Images][2]
 
 [1]: https://github.com/laraveltherightway/laraveltherightway.github.io
 [2]: /banners.html
+
+
+## Download the Android Application
+
+[Android v1](http://www.laravelbestpractices.com/download/v1.apk)
