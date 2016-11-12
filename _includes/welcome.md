@@ -30,7 +30,6 @@ know where to find good information!
 [1]: https://github.com/laraveltherightway/laraveltherightway.github.io
 [2]: /banners.html
 
-
 ## Download the Android Application
 
-[Android v1](http://www.laravelbestpractices.com/download/v1.apk)
+[![Get it in Google Play](/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
