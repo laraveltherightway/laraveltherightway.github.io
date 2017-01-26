@@ -4,7 +4,7 @@ anchor: configuration
 
 # Configuration {#configuration_title}
 
-Always make sure your application key is set. This is APP_KEY variable in .env file. You can generate one via 
+Always make sure your application key is set. This is the APP_KEY variable in your .env file. You can generate one via 
 
 ```
 php artisan key:generate
