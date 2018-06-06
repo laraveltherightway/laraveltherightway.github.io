@@ -33,4 +33,4 @@ sabe onde encontrar boas informações!
 
 ## Baixe o Aplicativo Android
 
-[![Procure na Google Play](/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
+[![Procure na Google Play](../images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
