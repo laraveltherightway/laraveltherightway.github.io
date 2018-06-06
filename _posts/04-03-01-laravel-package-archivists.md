@@ -1,6 +1,6 @@
 ---
 isChild: true
-anchor:  laravel_package_archivists
+anchor:  registros_pacotes_laravel
 ---
 
 ## Registros dos pacotes Laravel {#laravel_package_archivists_title}
