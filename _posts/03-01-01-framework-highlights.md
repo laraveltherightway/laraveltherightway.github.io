@@ -1,4 +1,5 @@
 ---
+title: Destaques do Framework
 anchor: framework_highlights
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Alterar Tabelas
 anchor: db_alterations
 isChild: true
 anchor:  db_alterations

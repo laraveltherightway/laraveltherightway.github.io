@@ -1,8 +1,9 @@
 ---
+title: Gerenciamento de Dependências
 anchor: dependency_management
 ---
 
-# Dependency Management {#dependency_management_title}
+# Gerenciamento de Dependências {#dependency_management_title}
 
 O Laravel não é construído do zero. Ele é construído sobre vários frameworks e bibliotecas. Você pode ver a lista de outras bibliotecas que usa [aqui][dependencies-laravel]. Também é alimentado por [componentes Illuminate][illuminate]. Todos esses componentes são combinados, garantindo que cada um deles possa ser tratado e escrito com o composer [Biblioteca Composer][comp-lib]. Essas bibliotecas estão hospedadas em repositórios públicos.
 

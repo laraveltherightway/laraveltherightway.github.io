@@ -1,9 +1,10 @@
 ---
+title: Fornecedores do PHP PaaS
 isChild: true
 anchor:  php_paas_providers
 ---
 
-## Fornecedores de PHP PaaS {#php_paas_providers_title}
+## Fornecedores do PHP PaaS {#php_paas_providers_title}
 
 * [Forge](https://forge.laravel.com/)
 * [Fortrabbit](http://www.fortrabbit.com/)

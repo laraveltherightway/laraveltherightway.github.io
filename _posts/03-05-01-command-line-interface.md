@@ -1,9 +1,10 @@
 ---
+title: Interface de Comando de Linha
 isChild: true
 anchor:  command_line_interface
 ---
 
-## Command Line Interface {#command_line_interface_title}
+## Interface de Comando de Linha {#command_line_interface_title}
 
 Laravel vem com sua própria interface de linha de comando chamada [Artisan][artisan-url]. Basicamente usa componentes do [Symfony Console][symfony-url] como sua fundação. Laracasts tem bons [tutorials][laracasts-url] na compreensão de como os comandos funcionam e como criar os seus próprios.
 

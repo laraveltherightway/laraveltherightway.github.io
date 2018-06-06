@@ -1,4 +1,5 @@
 ---
+title: Registros dos pacotes Laravel
 isChild: true
 anchor:  registros_pacotes_laravel
 ---

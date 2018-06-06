@@ -1,4 +1,5 @@
 ---
+title: Paradigmas da Programação
 isChild: true
 anchor:  programming_paradigms
 ---

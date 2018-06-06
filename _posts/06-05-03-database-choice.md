@@ -1,4 +1,5 @@
 ---
+title: Escolha o Banco
 anchor: right-database-choice
 isChild: true
 anchor:  right-database-choice

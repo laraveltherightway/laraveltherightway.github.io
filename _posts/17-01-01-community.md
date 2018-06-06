@@ -1,5 +1,6 @@
 ---
 anchor: community
+title: Comunidades
 ---
 
 # Comunidades {#community_title}

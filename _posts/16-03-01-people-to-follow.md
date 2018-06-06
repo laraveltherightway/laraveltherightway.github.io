@@ -1,4 +1,5 @@
 ---
+title: Pessoas para seguir
 isChild: true
 anchor:  people_to_follow
 ---

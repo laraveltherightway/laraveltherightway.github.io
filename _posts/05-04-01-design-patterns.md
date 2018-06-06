@@ -1,4 +1,5 @@
 ---
+title: Padrões de Projeto
 isChild: true
 anchor:  design_patterns
 ---

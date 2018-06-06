@@ -1,4 +1,5 @@
 ---
+title: Componentes
 isChild: true
 anchor:  components
 ---
