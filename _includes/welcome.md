@@ -16,6 +16,7 @@ Laravel: As Melhores Práticas está atualmente disponível nos seguintes idioma
 * [English](http://www.laravelbestpractices.com)
 * [Russian](http://vanadium23.github.io/laraveltherightway.github.io/)
 * [Chinese](http://bluegeek.github.io/laraveltherightway/)
+* [Portuguese Brazil](https://johnatant.github.io/laraveltherightway/)
 
 ## Como Contribuir
 
