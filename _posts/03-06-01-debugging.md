@@ -6,8 +6,8 @@ anchor:  debugging
 
 ## Debugging {#debugging_title}
 
-Laravel's cool error page is something that it is known for, thanks to the [Whoops library][whoops-url] which powers the error page you see whenever there is an error.
+A página de erros do Laravel é algo que é bastante conhecido, graças ao [Whoops library][whoops-url] que alimenta a página de erros que você vê sempre que há um erro.
 
 [whoops-url]:https://github.com/filp/whoops
 
-*Note that the Whoops library has been removed from Laravel 5.*
+*Observe que a biblioteca Whoops foi removida do Laravel 5.*

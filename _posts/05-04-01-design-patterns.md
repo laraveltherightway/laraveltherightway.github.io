@@ -3,9 +3,9 @@ isChild: true
 anchor:  design_patterns
 ---
 
-## Design Patterns {#design_patterns_title}
+## Padrões de Projeto {#design_patterns_title}
 
-It is easy to mess up your Laravel application if you don't have any sort of pattern to follow. The following design patterns are recommended for those who are building an application with Laravel or want to refactor their existing projects:
+É fácil bagunçar sua aplicação Laravel se você não tiver nenhum tipo de padrão a seguir. Os seguintes padrões de projeto são recomendados para aqueles que estão criando um aplicativo com o Laravel ou querem refatorar seus projetos existentes:
 
 * [Domain Driven Design][ddd-url]
 * [Don't call Eloquent models directly, Use Repositories!][repo-url]

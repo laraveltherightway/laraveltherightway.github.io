@@ -3,11 +3,11 @@ isChild: true
 anchor:  the_basics
 ---
 
-## The Basics {#the_basics_title}
+## O básico {#the_basics_title}
 
-Laravel has tons of features which might be overwhelming at first. 
+O Laravel tem vários recursos que podem ser impressionantes no começo. 
 
-Here are some articles and resources that may be useful to get on the same page with Laravel.
+Aqui estão alguns artigos e recursos que podem ser úteis para entrar na mesma página com o Laravel.
 
 * [Composer: Part 1 – What & Why?][li1]
 * [Why use an autoloader? why just don't require the files?][li2]

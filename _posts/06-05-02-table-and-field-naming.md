@@ -4,10 +4,10 @@ isChild: true
 anchor:  table_and_field_naming
 ---
 
-## Table and field naming {#table_and_field_naming_title}
+## Nomenclatura de tabela e campo {#table_and_field_naming_title}
 
-Table and field names MUST be lowercase and use [Snake Case](https://en.wikipedia.org/wiki/Snake_case).
+Os nomes de tabelas e campos DEVEM estar em minúsculas e usar [Snake Case](https://en.wikipedia.org/wiki/Snake_case).
 
-Table names should use the plural form of the actual real life object it is storing. Like for example, the table name for blog posts should be *posts* not *post*.
+Nomes de tabelas devem usar a forma plural do objeto real que estão armazenando. Como por exemplo, o nome da tabela para postagens do blog deve ser * posts * not * post *.
 
-Primary keys should be named "id" in the table names. While the foreign key it represents in other table should be on singularform_id. (e.g. table: post, primary key: id, foreign key: post_id )
+Chaves primárias devem ser nomeadas "id" nos nomes das tabelas. Enquanto a chave estrangeira que representa em outra tabela deve estar no id de forma singular. (i.n. tabela: post, chave primária: id, chave estrangeira: post_id)

@@ -2,13 +2,13 @@
 anchor: database_conventions
 ---
 
-# Database Conventions {#database_conventions_title}
+# Convenções de banco de dados {#database_conventions_title}
 
 
-### Eloquent can support multiple Database for a reason - Don't limit yourself to MySQL.
+### O Eloquent pode suportar múltiplos bancos de dados por um motivo - não se limite ao MySQL.
 
- Use [MongoDB](https://github.com/jenssegers/Laravel-MongoDB) for records that have attributes that vary a lot. For example, in an inventory system, an office supplies product might have a different set of fields compared to vehicle and auto supplies.
+ Use [MongoDB](https://github.com/jenssegers/Laravel-MongoDB) para registros que possuem atributos que variam muito. Por exemplo, em um sistema de inventário, um produto de material de escritório pode ter um conjunto diferente de campos em comparação com suprimentos de veículo e de automóvel.
 
- Use [ElasticSearch](https://github.com/elasticquent/Elasticquent) for high volume data searching and indexing.
+ Use [ElasticSearch](https://github.com/elasticquent/Elasticquent) para pesquisa e indexação de dados de alto volume.
 
- Use [Neo4J](https://github.com/Vinelab/NeoEloquent) for applications that require complex relationships between models. For example a multi-level networking application, social network site and similar apps.
+ Use [Neo4J](https://github.com/Vinelab/NeoEloquent) para aplicativos que exigem relacionamentos complexos entre modelos. Por exemplo, um aplicativo de rede multinível, site de rede social e aplicativos semelhantes.

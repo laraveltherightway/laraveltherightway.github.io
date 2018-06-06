@@ -4,10 +4,10 @@ isChild: true
 anchor:  db_alterations
 ---
 
-## Changing tables, index or inserting sample data. {#db_alterations}
+## Alterar tabelas, indexar ou inserir dados de amostra. {#db_alterations}
 
-DON'T create tables or index directly via PHPMyAdmin or console. Use [database migration](https://laravel.com/docs/5.2/migrations#writing-migrations) to create table, add/alter any fields, and commit those to Git repository. 
+NÃO crie tabelas ou indexe diretamente via PHPMyAdmin ou console. Use [database migration](https://laravel.com/docs/5.2/migrations#writing-migrations) para criar tabelas, adicionar / alterar campos e enviá-los para o repositório Git. 
 
-DON'T directly pass the database export (sql files) to your colleagues in order to share your database changes. Let them run the migration files you committed to the repository.
+NÃO passe diretamente a exportação do banco de dados (arquivos sql) para seus colegas para compartilhar suas alterações no banco de dados. Deixe-os executar os arquivos de migração que você confirmou no repositório.
 
-DON'T insert fake values directly into the database for testing purposes. Create [Seeder](https://laravel.com/docs/5.2/seeding) files to populate your database.
+Não insira valores falsos diretamente no banco de dados para fins de teste. Construa [Seeder](https://laravel.com/docs/5.2/seeding), arquivos para preencher seu banco de dados.

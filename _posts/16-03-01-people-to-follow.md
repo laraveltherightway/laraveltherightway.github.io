@@ -3,7 +3,7 @@ isChild: true
 anchor:  people_to_follow
 ---
 
-## People to Follow {#people_to_follow_title}
+## Pessoas para seguir {#people_to_follow_title}
 
 * [Taylor Otwell](https://twitter.com/taylorotwell)
 * [Dayle Rees](https://twitter.com/daylerees)

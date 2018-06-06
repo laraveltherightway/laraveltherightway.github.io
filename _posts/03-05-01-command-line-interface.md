@@ -5,7 +5,7 @@ anchor:  command_line_interface
 
 ## Command Line Interface {#command_line_interface_title}
 
-Laravel comes with its own command line interface called [Artisan][artisan-url]. It basically uses the [Symfony Console][symfony-url] component as its foundation. Laracasts has good [tutorials][laracasts-url] on understanding how commands works and how to make your own.
+Laravel vem com sua própria interface de linha de comando chamada [Artisan][artisan-url]. Basicamente usa componentes do [Symfony Console][symfony-url] como sua fundação. Laracasts tem bons [tutorials][laracasts-url] na compreensão de como os comandos funcionam e como criar os seus próprios.
 
 [artisan-url]:http://laravel.com/docs/5.4/artisan
 [symfony-url]:https://github.com/symfony/Console

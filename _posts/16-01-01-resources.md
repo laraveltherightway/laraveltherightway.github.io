@@ -2,4 +2,4 @@
 anchor: resources
 ---
 
-# Resources {#resources_title}
+# Recursos {#resources_title}

@@ -3,8 +3,8 @@ isChild: true
 anchor:  custom_homestead
 ---
 
-## Build your own Homestead {#custom_homestead_title}
+## Construa seu próprio Homestead {#custom_homestead_title}
 
-Homestead comes with pre-installed software. If you want to customize the installed software, you will need to have access to the scripts that is used to build Homestead itself. This project is called ["Settler"][settler-url]. You can check the source code of that project to have a better understanding of how Homestead was built, and probably add your own scripts as well.
+Homestead vem com software pré-instalado. Se você quiser personalizar o software instalado, precisará ter acesso aos scripts usados ​​para criar o próprio Homestead. Este projeto é chamado ["Settler"][settler-url]. Você pode verificar o código-fonte desse projeto para ter uma melhor compreensão de como o Homestead foi criado e, provavelmente, também adicionar seus próprios scripts.
 
 [settler-url]: https://github.com/laravel/settler

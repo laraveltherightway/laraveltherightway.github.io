@@ -2,4 +2,4 @@
 anchor: framework_highlights
 ---
 
-# Framework Highlights {#framework_highlights_title}
+# Destaques do Framework {#framework_highlights_title}

@@ -1,12 +1,12 @@
 ---
-title:   Working with UTF-8
+title:   Trabalhando com UTF-8
 isChild: true
 anchor:  php_and_utf8
 ---
 
-## Working with UTF-8 {#php_and_utf8_title}
+## Trabalhando com UTF-8 {#php_and_utf8_title}
 
-Laravel uses the [patchwork/utf8][patchwork] for most of its UT8-related stuff. It is required that all developers understands the following concepts:
+Laravel ysa o [patchwork/utf8][patchwork] para a maioria de suas coisas relacionadas ao UT8. É necessário que todos os desenvolvedores entendam os seguintes conceitos:
 
 * [Character Sets / Character Encoding Issues][li-1]
 * [Handling UTF-8 with PHP][li-2]

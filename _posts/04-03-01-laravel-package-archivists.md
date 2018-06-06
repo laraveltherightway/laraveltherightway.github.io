@@ -3,9 +3,9 @@ isChild: true
 anchor:  laravel_package_archivists
 ---
 
-## Laravel Package Archivists {#laravel_package_archivists_title}
+## Registros dos pacotes Laravel {#laravel_package_archivists_title}
 
-These are the sites where you can find Laravel Packages:
+Estes são os sites onde você pode encontrar Pacotes Laravel:
 
-* [Packalyst](http://packalyst.com) - Find and place package requests.
-* [Packagist Laravel](https://packagist.org/search/?tags=laravel) - Find Laravel packages in Packagist.
+* [Packalyst](http://packalyst.com) - Encontrar e substituir solicitações de pacote.
+* [Packagist Laravel](https://packagist.org/search/?tags=laravel) - Encontre os pacotes do Laravel no Packagist.

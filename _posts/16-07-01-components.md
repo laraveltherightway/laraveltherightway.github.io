@@ -3,11 +3,11 @@ isChild: true
 anchor:  components
 ---
 
-## Components {#components_title}
+## Componentes {#components_title}
 
-Illuminate components which can be found in
+Os componentes Illuminate podem ser encontrados em
 https://github.com/illuminate
 
-are the smaller parts that make up the Laravel Framework.
-Several other open-source libraries are used by Laravel, which can be seen in its composer.json file
+são as partes menores que compõem o Laravel Framework.
+Várias outras bibliotecas de código aberto são usadas pelo Laravel, que pode ser visto em seu arquivo composer.json
 https://github.com/laravel/framework/blob/5.0/composer.json#L22-L43
