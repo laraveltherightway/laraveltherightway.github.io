@@ -1,35 +1,36 @@
-# Welcome
+# Bem Vindo(a)
 
-_Disclaimer: Majority of the assets, design and format of this site is borrowed (forked might be the more better term) from the original [PHP : The Right Way](http://www.phptherightway.com/) site. The [original contributors](https://github.com/codeguy/php-the-right-way/graphs/contributors) is given all the credits due to them._
+_Aviso Legal: 
+Maioria dos ativos, design e formato deste site é emprestado (bifurcado pode ser o termo mais adequado) do site original [PHP : The Right Way](http://www.phptherightway.com/). Aos [contribuidores originais](https://github.com/codeguy/php-the-right-way/graphs/contributors) é dado todos os créditos à eles._
 
-This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. Laravel : Best Practices aims to put together all the resources and best practices in using the Laravel Framework.
+Este site serve como um guia para aqueles que estão usando o Laravel Framework por Taylor Otwell e seus colaboradores. Laravel: As Melhores Práticas têm como objetivo reunir todos os recursos e melhores práticas no uso do Laravel Framework.
 
-Laravel Framework is not strict on how and where you define your classes as long as it could be loaded by Composer. This is a double-sided blade -- it's beneficial for advanced developers, but coud be confusing for beginners and for those who is trying to reverse engineer an existing codebase. The ability to place anything, anywhere is good. But there are times some methods is way better than the others, and that is what we are after. This site tried to collect all the best practices, tools and methodologies, so that it could serve a guide for beginners and existing developers alike.
+O Laravel Framework não é estrito em como e onde você define suas classes, desde que possa ser carregado pelo Composer. Esta é uma lâmina de dois gumes - é benéfica para desenvolvedores avançados, mas pode ser confusa para iniciantes e para aqueles que estão tentando fazer engenharia reversa de uma base de código existente. A capacidade de colocar qualquer coisa, em qualquer lugar é boa. Mas há momentos em que alguns métodos são muito melhores que os outros, e é isso que buscamos. Este site tentou coletar todas as melhores práticas, ferramentas e metodologias, para que ele pudesse servir como um guia para iniciantes e desenvolvedores existentes.
 
-This is a living document and will continue to be updated with more helpful information and examples as they become available.
+Este é um documento vivo e continuará sendo atualizado com informações e exemplos mais úteis à medida que forem disponibilizados.
 
-## Translations
+## Traduções
 
-Laravel: The Best Practices is currently available in the following languages. Please contribute to the project so that it could support multiple languages.
+Laravel: As Melhores Práticas está atualmente disponível nos seguintes idiomas. Por favor, contribua para o projeto para que ele possa suportar vários idiomas.
 
 * [English](http://www.laravelbestpractices.com)
 * [Russian](http://vanadium23.github.io/laraveltherightway.github.io/)
 * [Chinese](http://bluegeek.github.io/laraveltherightway/)
 
-## How to Contribute
+## Como Contribuir
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Ajude a tornar este site o melhor recurso para novos programadores PHP! [Ajude no GitHub][1]
 
-## Spread the Word!
+## Espalhe a Palavra!
 
-_Laravel Best Practices_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_Laravel Boas Praticas_ tem imagens de banner da web que você pode usar em seu site. Mostre seu apoio e deixe que novos desenvolvedores PHP
+sabe onde encontrar boas informações!
 
-[See Banner Images][2]
+[Veja os Banners][2]
 
 [1]: https://github.com/laraveltherightway/laraveltherightway.github.io
 [2]: /banners.html
 
-## Download the Android Application
+## Baixe o Aplicativo Android
 
-[![Get it in Google Play](/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
+[![Procure na Google Play](/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)

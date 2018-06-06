@@ -1,14 +1,14 @@
 ---
-title:   Use the Current Stable Version (5.4)
+title:   Use a versão estável (5.4)
 isChild: true
 anchor:  use_the_current_stable_version
 ---
 
-## Use the Current Stable Version (5.4) {#use_the_current_stable_version_title}
+## Use a versão estável (5.4) {#use_the_current_stable_version_title}
 
-If you are getting started with Laravel, start with the current stable release of [Laravel 5.4][laravel-release]. Laravel has added 
-powerful [new features](#framework_highlights) over the last few years. If you are looking for a function or its usage, the 
-documentation on the [laravel.com/docs][laravel-docs] website will have the answer.
+Se você está iniciando com Laravel, começe com uma versão estável dele [Laravel 5.4][laravel-release]. Laravel adicionou 
+poderosas [características](#framework_highlights) nos últimos anos. Se você estiver procurando por uma função ou seu uso, a
+documentação no site terá a resposta [laravel.com/docs][laravel-docs].
 
 [laravel-release]: https://packagist.org/packages/laravel/laravel
 [laravel-docs]: http://laravel.com/docs

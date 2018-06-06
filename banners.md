@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Website Banners
-description: "Spread the word! Use these banner to let new PHP programmers know about PHP: The Right Way"
+description: "Espalhe a palavra! Use estes banners para permitir que novos programadores PHP conheçam o PHP: Do jeito certo"
 sitemap: true
 ---
 
-still looking for generous contributor to create one!
+Ainda à procura de colaborador generoso para criar um!

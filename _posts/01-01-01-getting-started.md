@@ -2,4 +2,4 @@
 anchor: getting_started
 ---
 
-# Getting Started {#getting_started_title}
+# Começando {#getting_started_title}
