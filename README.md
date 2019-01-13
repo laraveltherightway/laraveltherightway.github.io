@@ -1,5 +1,8 @@
 # Laravel: The Right Way
 
+## Project has gone stale
+### Check out https://phptherightway.com instead
+
 ## Overview
 
 This is the GitHub Pages repository for the _Laravel: The Right Way_ project.
