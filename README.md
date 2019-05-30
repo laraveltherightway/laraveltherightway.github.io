@@ -1,11 +1,8 @@
-# Laravel: The Right Way
-
-## Project has gone stale
-### Check out https://phptherightway.com instead
+# Laravel: Best Practices
 
 ## Overview
 
-This is the GitHub Pages repository for the _Laravel: The Right Way_ project.
+This is the GitHub Pages repository for the _Laravel Best Practices_ project.
 
 * This website is a Jekyll project.
 * Each section and sub-section are a Markdown file in `_posts/`.
@@ -14,10 +11,10 @@ This is the GitHub Pages repository for the _Laravel: The Right Way_ project.
 
 ## Spread the Word!
 
-_Laravel: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP
+_Laravel: Best Practices_ has web banner images you can use on your website. Show your support, and let new PHP
 developers know where to find good information!
 
-[See Banner Images](http://www.laraveltherightway.com/banners.html)
+[See Banner Images](http://www.laravelbestpractices.com/banners.html)
 
 ## How to Contribute
 
@@ -34,13 +31,13 @@ developers know where to find good information!
 
 ## Where
 
-<http://www.laraveltherightway.com>
+<http://www.laravelbestpractices.com>
 
-* [English](http://www.phptherightway.com)
+* [English](http://www.laravelbestpractices.com)
 
 ### Translations
 
-If you are interested in translating _Laravel: The Right Way_, fork this repo on GitHub and publish your localized fork to your own GitHub Pages account. We'll link to your translation from the primary document.
+If you are interested in translating _Laravel Best Practices_, fork this repo on GitHub and publish your localized fork to your own GitHub Pages account. We'll link to your translation from the primary document.
 
 To avoid fragmentation and reader confusion, please choose one of these options:
 
