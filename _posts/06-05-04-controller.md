@@ -5,7 +5,7 @@ isChild: true
 
 ### Controller Names
 
-Controller name must be a singular form.
+Controller name must start with a noun (in singular form) followed by the word "Controller".
 
 **Good** 
 
@@ -21,9 +21,12 @@ class ArticlesController extends Controller
 {
 ```
 
-**Horrible**
-
 ```
 class wp_articlesController extends Controller
+{
+```
+
+```
+class Article extends Controller
 {
 ```
