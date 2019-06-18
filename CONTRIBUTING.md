@@ -95,7 +95,7 @@ owners to license your work under the the terms of the [Creative Commons Attribu
 The same content and license will be used for all PHP The Right Way publications,
 including - but not limited to:
 
-* [laraveltherightway.com](https://www.laravelbestpractices.com)
+* [laravelbestpractices](https://www.laravelbestpractices.com)
 * Translations of www.laravelbestpractices.com
 
 All content is completely free now, and always will be.
