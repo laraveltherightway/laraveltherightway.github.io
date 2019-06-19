@@ -1,5 +1,6 @@
 ---
 title:   Package Configuration
+isChild: true
 anchor:  package-configuration
 ---
 
