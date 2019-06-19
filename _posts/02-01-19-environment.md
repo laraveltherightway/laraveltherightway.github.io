@@ -1,5 +1,5 @@
 ---
-anchor: getting_started
+anchor: environment
 ---
 
-# Getting Started {#getting_started_title}
+# Environment {#environment_title}
