@@ -8,11 +8,11 @@ anchor:  the-ecosystem
 
 At the very minimum, you need to know how to use [Git](https://git-scm.com/) and [Composer](https://getcomposer.org/). Though not required, it is better that you have an account on [GitHub.com](https://github.com/) as it is where all the code and its' dependencies are hosted.
 
+You MUST be comfortable in using [Command Line Interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface), specially Unix Shells (sh, ksh, csh, tcsh, bash etc) as it is heavily used for common tasks in working with Laravel.
+
 For local development, you’ll need to have at least [Vagrant](https://www.vagrantup.com/) and [VirtualBox](https://www.virtualbox.org/) installed. This is used by [Homestead](https://laravel.com/docs/5.8/homestead) (a special vagrant box made for running Laravel apps). Although you can use the traditional WAMP/MAMP/XAMPP stack, those are not officially supported, thus you might have hard time down the road.
 
-Pure “Laravel-way” frontend development might be a daunting one as it got has a long chain of technologies. You can either though [Laravel Blade](https://laravel.com/docs/5.8/blade) which is server-side templating or do client-side (browser), which at the very top of the chain is [Mix](https://laravel.com/docs/5.8/mix), a wrapper for [Webpack](https://webpack.js.org/). Webpack has its dependencies managed through [npm](https://www.npmjs.com/), all of which are packages of [NodeJS](https://nodejs.org/en/).
-
-
+Pure “Laravel-way” frontend development might be a daunting one as it got has a long chain of technologies. You can either use [Laravel Blade](https://laravel.com/docs/5.8/blade) which is server-side templating or do client-side (browser), which at the very top of the chain is [Mix](https://laravel.com/docs/5.8/mix), a wrapper for [Webpack](https://webpack.js.org/). Webpack has its dependencies managed through [npm](https://www.npmjs.com/), all of which are packages of [NodeJS](https://nodejs.org/en/).
 
 CSS is managed either through [Sass](http://sass-lang.com/) or [LESS](http://lesscss.org/), while JavaScript can be done through Plain JavaScript, [ReactJS](https://reactjs.org/) and the more common frontend framework used with Laravel: [VueJS](https://vuejs.org/).
 
