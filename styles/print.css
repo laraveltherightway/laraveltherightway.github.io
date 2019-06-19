@@ -10,3 +10,7 @@ nav.site-navigation, a.fork-me, a.top{
 div.site-content{
 	padding: 20px 40px 40px 20px;
 }
+
+td{
+	padding:5px;
+}
