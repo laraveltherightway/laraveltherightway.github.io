@@ -24,4 +24,4 @@ This guide is divided into several sections such as each one tries to group rela
 * **MAY**   This word, or the adjective "OPTIONAL", mean that an item is
    truly optional.
 
-the above specifications is derived from [RFC2119](https://www.ietf.org/rfc/rfc2119.txt)
+the above specifications is derived from [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt)
