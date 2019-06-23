@@ -32,7 +32,7 @@ class Article extends Controller
 {
 ```
 
-## Use Resource Controllers unless you have any particular reason not to do so
+## You SHOULD Use Resource Controllers unless you have any particular reason not to do so
 
 Good
 ```
