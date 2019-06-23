@@ -6,7 +6,19 @@ anchor:  package-configuration
 
 ##  Package Configuration {#package-configuration}
 
-### Config and language files index SHOULD be in snake-case
+### Custom or Package configuration filename MUST be in snake_case
+
+Good
+```
+config/my_config.php
+```
+
+Bad
+```
+config/MyConfig.php
+```
+
+### Config and language files indexes SHOULD be in snake-case
 
 Good
 ```
