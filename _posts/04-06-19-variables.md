@@ -32,7 +32,7 @@ $user = User::active()->get()
 $User = User::active()->get()
 ```
 
-### Single Object SHOULD descriptive and in singular form
+### Single Object SHOULD be descriptive and in singular form
 
 Good
 ```
