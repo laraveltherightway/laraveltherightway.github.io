@@ -1,6 +1,7 @@
 # Welcome
 
-This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. **Laravel : Best Practices** aims to put together all the resources and best practices in using the Laravel Framework.
+This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. <br/>
+**Laravel : Best Practices** aims to put together all the resources and best practices in using the Laravel Framework.
 
 Laravel Framework is not strict on how and where you define your classes as long as it could be loaded by Composer. This is a double-sided blade -- it's beneficial for advanced developers, but could be confusing for beginners and for those who is trying to reverse engineer an existing codebase. The ability to place anything, anywhere is good. But there are times some methods is way better than the others, and that is what we are after. This site tried to collect all the best practices, tools and methodologies, so that it could serve a guide for beginners and existing developers alike.
 
