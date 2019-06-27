@@ -14,13 +14,13 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/laraveltherightway/laraveltherightway.github.io/issues) is
+The [issue tracker](https://github.com/laravelbestpractices/laravelbestpractices.github.io/issues) is
 the preferred channel for changes: spelling mistakes, wording changes, new 
 content and generally [submitting pull requests](#pull-requests), but please 
 respect the following restrictions:
 
 * Please **do not** use the issue tracker for personal support requests (use
-  [Stack Overflow](http://stackoverflow.com/questions/tagged/php) or IRC).
+  [Stack Overflow](http://stackoverflow.com/questions/tagged/laravelbestpractices) or IRC).
 
 * Please **do not** derail or troll issues. Keep the discussion on topic and
   respect the opinions of others.
@@ -95,8 +95,8 @@ owners to license your work under the the terms of the [Creative Commons Attribu
 The same content and license will be used for all PHP The Right Way publications,
 including - but not limited to:
 
-* [laraveltherightway.com](http://laraveltherightway.com)
-* Translations of laraveltherightway.com
+* [laravelbestpractices](https://www.laravelbestpractices.com)
+* Translations of www.laravelbestpractices.com
 
 All content is completely free now, and always will be.
 
