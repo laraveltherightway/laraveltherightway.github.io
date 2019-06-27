@@ -3111,6 +3111,11 @@ select {
 }
 .site-content {
   padding: 20px 40px 40px 320px;
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 125%;
+  line-height: 135%;
 }
 .site-content h1 {
   clear: both;
