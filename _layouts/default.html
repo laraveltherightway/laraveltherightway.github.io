@@ -1,22 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns#">
     <head>
         <meta charset="utf-8"/>
         <title>{% if page.title %}{{ page.title }} - {% endif %}Laravel: Best Practices</title>
         <meta name="description" content="{{ page.description }}"/>
         <meta name="robots" content="index,follow,archive"/>
+        <link rel="canonical" href="https://www.laravelbestpractices.com" />
 		<meta property="og:image" content="http://www.laravelbestpractices.com/images/og-logo.png"/>
 		<meta property="og:title" content="Laravel: Best Practices"/>
 	    <meta property="og:description" content="An easy-to-read, quick reference for Laravel best practices, accepted coding standards, and links to authoritative Laravel tutorials around the Web"/>
 		<meta property="og:url" content="http://www.laravelbestpractices.com"/>
 		 <meta property="og:site_name" content="Laravel: Best Practices"/>
         <meta property="og:type" content="website"/>
+        <meta property="article:tag" content="coding standards, laravel rules, implementation details, team programming, policies" />
+        <meta property="article:section" content="Information Technology" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
         <link href='http://fonts.googleapis.com/css?family=Alfa+Slab+One|Droid+Serif:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{{ site.baseurl }}styles/all.css"/>
         <link rel="stylesheet" href="{{ site.baseurl }}styles/print.css" media="print, handheld"/>
         <link rel="stylesheet" href="{{ site.baseurl }}styles/syntax.css"/>
         <link rel="icon" href="{{ site.baseurl }}images/favicon.png" type="image/png"/>
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:description" content="{{ page.description }}" />
+        <meta name="twitter:title" content="Laravel Best Practices" />
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "WebSite",
+                "url": "https://www.laravelbestpractices.com",
+                "name": "Laravel Best Practices",
+                "description": "{{ page.description }}"
+            }
+        </script>
     </head>
     <body>
 		<!-- Google Tag Manager -->
