@@ -6,7 +6,7 @@ anchor:  the-ecosystem
 
 ## The Ecosystem {#the_ecosystem}
 
-At the very minimum, you need to know how to use [Git](https://git-scm.com/){:target="_blank"} and [Composer](https://getcomposer.org/){:target="_blank"}. Though not required, it is better that you have an account on [GitHub.com](https://github.com/){:target="_blank"} as it is where all the code and its' dependencies are hosted.
+At the very minimum, you need to know how to use [Git](https://git-scm.com/){:target="_blank"} and [Composer](https://getcomposer.org/){:target="_blank"}. Though not required, it is better that you have an account on [GitHub.com](https://github.com/){:target="_blank"} as it is where all the code and its dependencies are hosted.
 
 You MUST be comfortable in using [Command Line Interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface){:target="_blank"}, specially Unix Shells (sh, ksh, csh, tcsh, bash etc) as it is heavily used for common tasks in working with Laravel.
 

@@ -66,7 +66,7 @@ function my_custom_helper($key, $default = null) {
 ```
 ### Other General guides with functions
 
-- If the function lenght exceeds 25 lines, you SHOULD break it down to multiple functions
+- If the function length exceeds 25 lines, you SHOULD break it down to multiple functions
 - Each function SHOULD have a __Unit Test__ associated with it
 
 
