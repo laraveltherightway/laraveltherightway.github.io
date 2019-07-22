@@ -17,6 +17,7 @@
                 for ( var i = 0; i < dataLength; i++ ) {
                     $ul.append(['<li><a href="https://github.com/', data.data[i].login, '" target="_blank">', data.data[i].login, '</a></li>'].join(''));
                 }
+                    $ul.append('<li><a href="https://github.com/alexeymezenin/laravel-best-practices" target="_blank">Laravel best practices - alexeymezenin</a>(approved by author)</li>');
                 $contributors.html($ul);
             } else {
                 fail();
