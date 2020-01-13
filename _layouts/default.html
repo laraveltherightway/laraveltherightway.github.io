@@ -73,6 +73,7 @@
                     </ul>
                 </li>
                 {% assign lastIsChild = false %}
+                {% assign insideSection = false %}
                 {% for post in site.posts reversed %}
                     {% if post.isChild != true %}
                         {% if insideSection %}
