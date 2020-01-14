@@ -7,6 +7,18 @@ Laravel Framework is not strict on how and where you define your classes as long
 
 This is a living document and will continue to be updated with more helpful information and examples as they become available.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-0845730634111642"
+     data-ad-slot="5495082024"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Translations
 
 Laravel: The Best Practices is currently available in the following languages. Please contribute to the project so that it could support multiple languages.
