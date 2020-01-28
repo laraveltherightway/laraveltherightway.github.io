@@ -21,7 +21,7 @@ Bad
 project_folder/functions.php
 ```
 
-### You MUST use Composer's autolading capability to load your functions
+### You MUST use Composer's autoloading capability to load your functions
 
 Good
 ```
