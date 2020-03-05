@@ -43,7 +43,7 @@ Good
 
 ```
 post_user
-articles_user
+article_user
 photo_post
 ```
 
