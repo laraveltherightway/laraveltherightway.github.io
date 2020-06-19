@@ -35,5 +35,6 @@ When developing your [SPA](https://flaviocopes.com/single-page-application/), yo
 - [Video: Frontend Scaffolding Has Been Moved to Laravel UI](https://laracasts.com/series/whats-new-in-laravel-6/episodes/3)
 - [Video: Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
 - [Tutorial: Build authentication into your Laravel API with JSON Web Tokens (JWT)](https://medium.com/employbl/build-authentication-into-your-laravel-api-with-json-web-tokens-jwt-cd223ace8d1a)
+- [How to Hire a Great Laravel Developer](https://www.toptal.com/laravel#hiring-guide)
 
 
