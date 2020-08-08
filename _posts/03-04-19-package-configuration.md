@@ -18,7 +18,7 @@ Bad
 config/MyConfig.php
 ```
 
-### Config and language files indexes SHOULD be in snake-case
+### Config and language files indexes SHOULD be in snake_case
 
 Good
 ```
